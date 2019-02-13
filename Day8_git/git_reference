@@ -1,0 +1,6 @@
+git checkout -b new_branch #create new sub branch
+git checkout branch_name #switch branches
+git status
+git push origin master
+git pull origin mater
+
